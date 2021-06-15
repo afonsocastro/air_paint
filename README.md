@@ -1,4 +1,4 @@
-# PARI Augmented Reality Paint
+# Augmented Reality Paint
 Welcome to the Augmented Reality Paint.
 Here you can give wings to your artist side by drawing your magnificent dream paint with your own hands.
 
